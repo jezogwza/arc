@@ -1,3 +1,0 @@
-resources:
-  - ../../../function/grafana/replacements
-  - ../../../function/thanos-operator/replacements

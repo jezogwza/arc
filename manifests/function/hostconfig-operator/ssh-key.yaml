@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: Secret
-metadata:
-  name: hco-ssh-auth
-type: kubernetes.io/ssh-auth
-data:
-  ssh-privatekey: REPLACEMENT_SSH_PRIVATEKEY
-  username: ZGVwbG95ZXIK
-

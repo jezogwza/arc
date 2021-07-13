@@ -1,7 +1,0 @@
-resources:
-  - ../../../../type/airship-core/target/initinfra
-  - ../catalogues
-transformers:
-  - ../../../../type/airship-core/target/initinfra/replacements
-  - ../../../../../../airshipctl/manifests/function/flux/source-controller/replacements
-  - ../../../../../../airshipctl/manifests/function/flux/helm-controller/replacements

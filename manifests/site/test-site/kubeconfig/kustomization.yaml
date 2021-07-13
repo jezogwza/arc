@@ -1,7 +1,0 @@
-resources:
-  - kubeconfig.yaml
-  - ../target/catalogues
-
-transformers:
-  - update-target.yaml
-  - ../target/catalogues/cleanup

@@ -1,5 +1,0 @@
-resources:
-  - ../../../../type/airship-core/ephemeral/initinfra
-  - ../catalogues
-transformers:
-  - ../../../../type/airship-core/ephemeral/initinfra/replacements

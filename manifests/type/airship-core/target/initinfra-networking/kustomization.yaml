@@ -1,5 +1,0 @@
-resources:
-  - ../../../../../../airshipctl/manifests/composite/infra/
-
-commonLabels:
-  airshipit.org/stage: initinfra
